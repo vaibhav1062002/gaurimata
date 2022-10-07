@@ -1,0 +1,65 @@
+.head{
+  background-image: linear-gradient(to right, #68c5ed ,#afe3fa,#74c2e3);
+}
+}
+
+.headimage{
+  margin-bottom: -5px;
+}
+.img2{
+  display: inline;
+  position: absolute;
+  margin-left:1000px;
+  margin-bottom: 0px;
+}
+.h1
+{
+  display: inline;
+    position: absolute;
+    margin-top: 100px;
+    text-align: center;
+    margin-left: 90px;
+}
+.tablehead
+{
+
+  margin-left: 300px;
+
+}
+.table
+{
+  padding: 10px;
+  text-align:center;
+  border: 2px solid #74c2e3;
+
+}
+pre
+{
+  font-size: 1rem;
+ display: inline;
+ padding: 30px;
+ margin-right: 20px;
+
+}
+.namste
+{
+  margin-top: -90px;
+    position: absolute;
+    width: 100px;
+    margin-left: 250px;
+}
+.footer
+{ margin-top: 60px;
+  background-image: linear-gradient(to right, #68c5ed ,#afe3fa,#74c2e3);
+}
+.momdad
+{
+
+  width: 300px;
+  margin-left: 300px;
+
+
+}
+.para1{
+  margin-left: 50px;
+}
